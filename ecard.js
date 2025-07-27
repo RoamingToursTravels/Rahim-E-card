@@ -23,7 +23,7 @@ function saveContact() {
     const title = 'Junior Executive Reservation';
     const officePhone = '01332547033';
     const personalPhone = '01313927669';
-    const email = 'rahim.reservation18@gmail.com';
+    const email = 'rahim.roamingbd18@gmail.com';
     const secondaryEmail = '';
     const website = 'https://www.roamingbd.com';
     const address = 'House-25 (2nd Floor), Road-02, Sector-03, opposite of Shopno, Rajlokkhi, Uttara, Dhaka, Bangladesh';
